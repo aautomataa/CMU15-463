@@ -1,2 +1,2 @@
 # CMU15-463
-Computational photography (self-learning program)
+http://graphics.cs.cmu.edu/courses/15-463/
